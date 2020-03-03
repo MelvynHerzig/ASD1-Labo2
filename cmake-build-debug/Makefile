@@ -122,32 +122,32 @@ Labo2/fast:
 	$(MAKE) -f CMakeFiles\Labo2.dir\build.make CMakeFiles/Labo2.dir/build
 .PHONY : Labo2/fast
 
-Piece.obj: Piece.cpp.obj
+Pieces.obj: Pieces.cpp.obj
 
-.PHONY : Piece.obj
+.PHONY : Pieces.obj
 
 # target to build an object file
-Piece.cpp.obj:
-	$(MAKE) -f CMakeFiles\Labo2.dir\build.make CMakeFiles/Labo2.dir/Piece.cpp.obj
-.PHONY : Piece.cpp.obj
+Pieces.cpp.obj:
+	$(MAKE) -f CMakeFiles\Labo2.dir\build.make CMakeFiles/Labo2.dir/Pieces.cpp.obj
+.PHONY : Pieces.cpp.obj
 
-Piece.i: Piece.cpp.i
+Pieces.i: Pieces.cpp.i
 
-.PHONY : Piece.i
+.PHONY : Pieces.i
 
 # target to preprocess a source file
-Piece.cpp.i:
-	$(MAKE) -f CMakeFiles\Labo2.dir\build.make CMakeFiles/Labo2.dir/Piece.cpp.i
-.PHONY : Piece.cpp.i
+Pieces.cpp.i:
+	$(MAKE) -f CMakeFiles\Labo2.dir\build.make CMakeFiles/Labo2.dir/Pieces.cpp.i
+.PHONY : Pieces.cpp.i
 
-Piece.s: Piece.cpp.s
+Pieces.s: Pieces.cpp.s
 
-.PHONY : Piece.s
+.PHONY : Pieces.s
 
 # target to generate assembly for a file
-Piece.cpp.s:
-	$(MAKE) -f CMakeFiles\Labo2.dir\build.make CMakeFiles/Labo2.dir/Piece.cpp.s
-.PHONY : Piece.cpp.s
+Pieces.cpp.s:
+	$(MAKE) -f CMakeFiles\Labo2.dir\build.make CMakeFiles/Labo2.dir/Pieces.cpp.s
+.PHONY : Pieces.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -185,9 +185,9 @@ help:
 	@echo ... Labo2
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Piece.obj
-	@echo ... Piece.i
-	@echo ... Piece.s
+	@echo ... Pieces.obj
+	@echo ... Pieces.i
+	@echo ... Pieces.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

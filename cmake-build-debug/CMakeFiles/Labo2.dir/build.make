@@ -69,29 +69,29 @@ CMakeFiles/Labo2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Labo2.dir/main.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\main.cpp" -o CMakeFiles\Labo2.dir\main.cpp.s
 
-CMakeFiles/Labo2.dir/Piece.cpp.obj: CMakeFiles/Labo2.dir/flags.make
-CMakeFiles/Labo2.dir/Piece.cpp.obj: ../Piece.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Labo2.dir/Piece.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Labo2.dir\Piece.cpp.obj -c "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\Piece.cpp"
+CMakeFiles/Labo2.dir/Pieces.cpp.obj: CMakeFiles/Labo2.dir/flags.make
+CMakeFiles/Labo2.dir/Pieces.cpp.obj: ../Pieces.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Labo2.dir/Pieces.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Labo2.dir\Pieces.cpp.obj -c "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\Pieces.cpp"
 
-CMakeFiles/Labo2.dir/Piece.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Labo2.dir/Piece.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\Piece.cpp" > CMakeFiles\Labo2.dir\Piece.cpp.i
+CMakeFiles/Labo2.dir/Pieces.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Labo2.dir/Pieces.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\Pieces.cpp" > CMakeFiles\Labo2.dir\Pieces.cpp.i
 
-CMakeFiles/Labo2.dir/Piece.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Labo2.dir/Piece.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\Piece.cpp" -o CMakeFiles\Labo2.dir\Piece.cpp.s
+CMakeFiles/Labo2.dir/Pieces.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Labo2.dir/Pieces.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\Pieces.cpp" -o CMakeFiles\Labo2.dir\Pieces.cpp.s
 
 # Object files for target Labo2
 Labo2_OBJECTS = \
 "CMakeFiles/Labo2.dir/main.cpp.obj" \
-"CMakeFiles/Labo2.dir/Piece.cpp.obj"
+"CMakeFiles/Labo2.dir/Pieces.cpp.obj"
 
 # External object files for target Labo2
 Labo2_EXTERNAL_OBJECTS =
 
 Labo2.exe: CMakeFiles/Labo2.dir/main.cpp.obj
-Labo2.exe: CMakeFiles/Labo2.dir/Piece.cpp.obj
+Labo2.exe: CMakeFiles/Labo2.dir/Pieces.cpp.obj
 Labo2.exe: CMakeFiles/Labo2.dir/build.make
 Labo2.exe: CMakeFiles/Labo2.dir/linklibs.rsp
 Labo2.exe: CMakeFiles/Labo2.dir/objects1.rsp

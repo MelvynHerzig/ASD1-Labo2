@@ -6,13 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Piece.cpp
-Piece.h
-C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Piece.h
-
-C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Piece.h
+C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Pieces.h
+array
+-
+vector
+-
 
 C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/main.cpp
-iostream
+vector
+-
+array
+-
+Pieces.h
+C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Pieces.h
+algorithm
 -
 
