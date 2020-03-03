@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Piece.cpp
+Piece.h
+C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Piece.h
+
+C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Piece.h
+
+C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/main.cpp
+iostream
+-
+
