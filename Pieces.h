@@ -12,11 +12,12 @@
 #include <array>
 #include <vector>
 
-enum AttachementType {
-    FILLE_HAUT, FILLE_BAS, DAME_HAUT, DAME_BAS, ARROSOIR_GAUCHE, ARROSOIR_DROIT, GATEAU_GAUCHE, GATEAU_DROIT,  ARROSOIR_INVERSE, NONE };
+enum AttachementType { FILLE_HAUT, FILLE_BAS, DAME_HAUT, DAME_BAS, ARROSOIR_GAUCHE, ARROSOIR_DROIT, GATEAU_GAUCHE, GATEAU_DROIT,  ARROSOIR_INVERSE, NONE };
 
 using Piece = std::array<AttachementType,4>;
 using Pieces = std::vector<Piece>;
+
+
 
 extern const Pieces PIECES;
 
