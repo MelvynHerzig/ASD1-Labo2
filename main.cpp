@@ -46,7 +46,7 @@ public:
 
     unsigned id;
     Piece piece;
-    Orientation orientation;    
+    Orientation orientation;
 };
 
 /**
@@ -96,7 +96,7 @@ void resolution(Puzzle& puzzle, unsigned pieceRestante);
 
 
 PieceOrientee::PieceOrientee(unsigned id, const Piece& piece , const Orientation& orientation)
-                           : id(id), piece(piece), orientation(orientation){}
+        : id(id), piece(piece), orientation(orientation){}
 
 void PieceOrientee::rotationGauche()
 {
