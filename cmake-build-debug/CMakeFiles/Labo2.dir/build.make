@@ -33,19 +33,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.2.4\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "E:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2019.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "E:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2"
+CMAKE_SOURCE_DIR = "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Labo2.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/Labo2.dir/flags.make
 
 CMakeFiles/Labo2.dir/main.cpp.obj: CMakeFiles/Labo2.dir/flags.make
 CMakeFiles/Labo2.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Labo2.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Labo2.dir\main.cpp.obj -c "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Labo2.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Labo2.dir\main.cpp.obj -c "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2\main.cpp"
 
 CMakeFiles/Labo2.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Labo2.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\main.cpp" > CMakeFiles\Labo2.dir\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2\main.cpp" > CMakeFiles\Labo2.dir\main.cpp.i
 
 CMakeFiles/Labo2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Labo2.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\main.cpp" -o CMakeFiles\Labo2.dir\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2\main.cpp" -o CMakeFiles\Labo2.dir\main.cpp.s
 
 CMakeFiles/Labo2.dir/Pieces.cpp.obj: CMakeFiles/Labo2.dir/flags.make
 CMakeFiles/Labo2.dir/Pieces.cpp.obj: ../Pieces.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Labo2.dir/Pieces.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Labo2.dir\Pieces.cpp.obj -c "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\Pieces.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Labo2.dir/Pieces.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Labo2.dir\Pieces.cpp.obj -c "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2\Pieces.cpp"
 
 CMakeFiles/Labo2.dir/Pieces.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Labo2.dir/Pieces.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\Pieces.cpp" > CMakeFiles\Labo2.dir\Pieces.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2\Pieces.cpp" > CMakeFiles\Labo2.dir\Pieces.cpp.i
 
 CMakeFiles/Labo2.dir/Pieces.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Labo2.dir/Pieces.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\Pieces.cpp" -o CMakeFiles\Labo2.dir\Pieces.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2\Pieces.cpp" -o CMakeFiles\Labo2.dir\Pieces.cpp.s
 
 # Object files for target Labo2
 Labo2_OBJECTS = \
@@ -96,7 +96,7 @@ Labo2.exe: CMakeFiles/Labo2.dir/build.make
 Labo2.exe: CMakeFiles/Labo2.dir/linklibs.rsp
 Labo2.exe: CMakeFiles/Labo2.dir/objects1.rsp
 Labo2.exe: CMakeFiles/Labo2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Labo2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Labo2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Labo2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/Labo2.dir/clean:
 .PHONY : CMakeFiles/Labo2.dir/clean
 
 CMakeFiles/Labo2.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2" "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2" "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug" "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug" "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug\CMakeFiles\Labo2.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2" "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2" "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug" "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug" "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2\cmake-build-debug\CMakeFiles\Labo2.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Labo2.dir/depend
 
