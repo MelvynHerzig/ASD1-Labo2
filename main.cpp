@@ -23,9 +23,8 @@ using Puzzle = std::array<PieceOrientee, TAILLE_PUZZLE>;
 enum Orientation {A, B, C, D};
 enum Cote{HAUT, DROITE, BAS, GAUCHE};
 
-class PieceOrientee
+struct PieceOrientee
 {
-public:
     /**
      * @brief Constructeur par défaut.
      */
@@ -196,7 +195,7 @@ int main()
     Puzzle puzzle;
     for(size_t i = 0; i < puzzle.size(); ++i)
     {
-        puzzle[i] = PieceOrientee(i+1, PIECES[i], Orientation::A);
+        puzzle[i] = PieceOrientee{i+1, PIECES[i], Orientation::A};
     }
 
     resolution(puzzle, puzzle.size());

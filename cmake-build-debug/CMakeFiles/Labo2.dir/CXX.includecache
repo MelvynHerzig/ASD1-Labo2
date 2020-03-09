@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Pieces.h
+C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Pieces.h
 array
 -
 vector
 -
 
-C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/main.cpp
+C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/main.cpp
 array
 -
 algorithm
@@ -20,5 +20,5 @@ algorithm
 iostream
 -
 Pieces.h
-C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Pieces.h
+C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Pieces.h
 

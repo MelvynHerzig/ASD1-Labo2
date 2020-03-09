@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Labo2">
-				<Option output="C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Labo2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug"/>
+				<Option output="C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Labo2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Labo2"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Labo2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Labo2/fast">
-				<Option output="C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Labo2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug"/>
+				<Option output="C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Labo2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,43 +55,43 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Labo2/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Labo2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Pieces.cpp">
+		<Unit filename="C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Pieces.cpp">
 			<Option target="Labo2"/>
 		</Unit>
-		<Unit filename="C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Pieces.h">
+		<Unit filename="C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/Pieces.h">
 			<Option target="Labo2"/>
 		</Unit>
-		<Unit filename="C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/main.cpp">
+		<Unit filename="C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/main.cpp">
 			<Option target="Labo2"/>
 		</Unit>
-		<Unit filename="C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/CMakeLists.txt">
+		<Unit filename="C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

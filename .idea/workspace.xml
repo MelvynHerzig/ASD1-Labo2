@@ -12,6 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4709b6b8-0c61-416d-b6ba-6013b8969d70" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +37,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="Labo2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Labo2" TARGET_NAME="Labo2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Labo2" RUN_TARGET_NAME="Labo2">
@@ -62,6 +75,9 @@
       <workItem from="1583591145528" duration="8020000" />
       <workItem from="1583599951500" duration="5000" />
       <workItem from="1583600024137" duration="17000" />
+      <workItem from="1583600207607" duration="2000" />
+      <workItem from="1583600345679" duration="59000" />
+      <workItem from="1583749573001" duration="240000" />
     </task>
     <servers />
   </component>
@@ -82,6 +98,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1583600392769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1583600392769" />
     <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1583600040557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -98,9 +118,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1583600040557" />
-    <state x="668" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1583600024081">
+    <state x="668" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1583600369520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1583600024081" />
+    <state x="668" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1583600369520" />
   </component>
 </project>

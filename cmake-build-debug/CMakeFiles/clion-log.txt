@@ -1,4 +1,4 @@
-"E:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/MinGW/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/MinGW/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/MinGW/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" "C:\Users\melvy\Desktop\Application\Drive\HEIG_VD\2em semestre\ADS1\Labo2"
+"C:\Program Files\JetBrains\CLion 2019.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/MinGW/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/MinGW/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/MinGW/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" "C:\Users\Melvyn\Desktop\Cours\Drive\HEIG_VD\2em semestre\ADS1\Labo2"
 -- The C compiler identification is GNU 6.3.0
 -- The CXX compiler identification is GNU 6.3.0
 -- Check for working C compiler: C:/MinGW/bin/gcc.exe
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/melvy/Desktop/Application/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug
+-- Build files have been written to: C:/Users/Melvyn/Desktop/Cours/Drive/HEIG_VD/2em semestre/ADS1/Labo2/cmake-build-debug
