@@ -57,13 +57,6 @@ struct PieceOrientee
 std::ostream& operator<<(std::ostream& os, const Puzzle& puzzle);
 
 /**
- * @brief Effectue toutes les rotations de la dernière pièce.
- * @param puzzle
- * @param pieceRestante
- */
-void rotateAndCallBack(Puzzle& puzzle, unsigned pieceRestante);
-
-/**
  * @brief Vérifie si deux côté correspondent.
  * @param c1 Côté 1.
  * @param c2 Côté 2
